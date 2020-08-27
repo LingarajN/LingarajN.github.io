@@ -94,6 +94,7 @@
     theNum = "";
     viewer.innerHTML = "";
     equals.setAttribute("data-result", resultNum);
+    window.location.reload();
   };
 
   /* The click events */
